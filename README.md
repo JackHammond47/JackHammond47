@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jackson Hammond
 
-<!--
-**JackHammond47/JackHammond47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Jack Hammond, a student at Brigham Young University-Idaho interested in full stack development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning React and Bootstrap.
+- My goals are to find a career doing application/full stack development.
+- Ask me about coding languages, I have opinions on so many!
+
+## Technologies and Tools
+
+- Proficient in: Python, C#, SQL, Elixir, Erlang, JavaScript, HTML, CSS (LEARNING REACT AND BOOTSTRAP)
+- Skills: Back-end development, game design, CRUD operations, debuggging
+
+## Let's Connect!
+
+- Here is my [www.linkedin.com/in/jackson-hammond-a758b0173] profile
+
+
